@@ -1,6 +1,6 @@
 # ReyxBot, The best minecraft admin bot
 Este es un bot de discord que interactua con un servidor personalizado de minecraft en el cual juego con amigos
-La gracia de este bot es que añade distintas mecanicas entre los usuarios de discord y un servidor de minecraft,
+La gracia de este bot es que añade distintas interacciones entre los usuarios de discord y un servidor de minecraft,
 anadiendo distintas mecanicas como una ruleta aleatoria que dropea items en el juego, entregar una lista de los
 jugadores conectados al servidor de minecraft, permite ejecutar comandos en la consola a traves de mensajes en 
 discord, etc.
